@@ -7,6 +7,7 @@ namespace Git_Bash_2
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир");
+            Console.WriteLine("Работа с git, используя Visual Studio");
         }
     }
 }
