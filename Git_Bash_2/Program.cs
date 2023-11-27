@@ -4,6 +4,10 @@ namespace Git_Bash_2
 {
     class Program
     {
+        static void MySuperfunction()
+        {
+            Console.WriteLine("What an awesome print!");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир");
