@@ -4,6 +4,7 @@ namespace Git_Bash_2
 {
     class Program
     {
+        // Author is Nikolaj Kirillov
         static void MySuperfunction()
         {
             Console.WriteLine("What an awesome print!");
